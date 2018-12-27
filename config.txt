@@ -1,6 +1,6 @@
-token=«· Êﬂ‰ 
-owner=«œÌ » ⁄ﬂ 
-prefix= 1
-game= 1help
+token=NTI3ODkxODQwOTA5ODM2MzEx.DwaW3A.-FY_33rju-j-IbmKnBJnLSiSXTs
+owner=500351379865468930 
+prefix= 3
+game= 3help
 stayinchannel=true
 songinstatus=true 
